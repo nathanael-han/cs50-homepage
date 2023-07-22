@@ -8,4 +8,4 @@ CS50 Problem Set 8
 [View Site Here](https://nathanael-han.github.io/cs50-homepage/index.html)
 
 
-![Alt Text](https://github.com/nathanael-han/cs50-trivia/blob/main/trivia_snapshot.png](https://github.com/nathanael-han/cs50-homepage/blob/main/homepage-snap.png)https://github.com/nathanael-han/cs50-homepage/blob/main/homepage-snap.png)
+![Alt Text](https://github.com/nathanael-han/cs50-homepage/blob/main/homepage-snap.png)
